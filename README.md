@@ -1,4 +1,4 @@
-# covid-19TrackerApp
+# Covid-19TrackerApp
 
 Tracking App for Health and Welfare of Society
 
